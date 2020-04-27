@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'face_detection_home.dart';
+import 'detection_home.dart';
 
 void main() => runApp(new FaceDetectorApp());
 
